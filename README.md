@@ -1,0 +1,2 @@
+# fitness-monitor
+A TIVA-Orbit board was used to implement a rudimentary personal fitness monitor. The purpose of the fitness monitor was to record a user’s steps, estimate the distance travelled and display the user’s progress towards their set goals. To implement this functionality, many concurrent foreground and background tasks were required. A robust, interrupt driven kernel was used to achieve this behaviour. 
